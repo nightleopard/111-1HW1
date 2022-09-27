@@ -85,6 +85,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="answer.md" />
     <Content Include="answer.md.pdf" />
     <Content Include="answer.md.rar" />
     <None Include="packages.config" />
